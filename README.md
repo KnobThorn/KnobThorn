@@ -1,5 +1,6 @@
 # 💫 About Me:
 I am a self taught game developer and animator.  I code my games in GDScript, model and animate in Blender , edit and create icons in Gimp and Inkscape and edit sound effects in Audacity.
+
 Follow me on Twitter to see my work.
 
 
