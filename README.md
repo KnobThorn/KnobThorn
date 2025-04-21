@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hello.<br>I'm a software engineer. I have over 4 years experience developing 3D video games. Now I'm learning how to develop other types of applications and software.</p>
+<p align="left">👋 Hello. <br>I'm a software engineer. I have over 4 years experience developing 3D video games. Now I'm learning how to develop other types of applications and software.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating games since 2019.<br>📚 I'm currently learning Python and Pyside6.<br>🎯 Goals: Code more,better and faster.</p>
+<p align="left">✨ Creating games since 2019.<br>📚 I'm currently learning Python. <br>🎯 Goals: Code more, better and faster.</p>
 
 ###
 
