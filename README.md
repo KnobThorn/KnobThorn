@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating games since 2019.<br>📚 I'm currently learning Python and Pyside6.<br>🎯 Goals: Great leap forward. Be HIM.</p>
+<p align="left">✨ Creating games since 2019.<br>📚 I'm currently learning Python and Pyside6.<br>🎯 Goals: Code more,better and faster.</p>
 
 ###
 
