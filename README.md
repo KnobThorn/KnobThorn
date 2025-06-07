@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hello. <br>I'm a software engineer. I have over 4 years experience developing 3D video games. Now I'm learning how to develop other types of applications and software.</p>
+<p align="left">👋 Hello. <br>I'm a software engineer with 5 years experience developing software especially 3D video games. I make websites and applications as well. </p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating games since 2019.<br>📚 I'm currently learning Python. <br>🎯 Goals: Code more, better and faster.</p>
+<p align="left">✨ Coding since 2019.<br>🎯 Goals: Code more, better and faster.</p>
 
 ###
 
@@ -42,7 +42,7 @@
   <a href="https://x.com/Knob_Thorn" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://www.youtube.com/@KnobThorn" target="_blank">
+  <a href="https://www.youtube.com/@Knob_Thorn" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 
